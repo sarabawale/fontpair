@@ -1,9 +1,11 @@
 # Senior Comprehensive Project, Fall 2019
 ### Department of Computer Science, Occidental College
 
-*Currently under construction
+*README and frontend of web app currently under construction
 
 One Paragraph of project description goes here
+
+Please contact me if you would like a copy of the research paper I wrote to go along with the project.
 
 ## Getting Started
 
